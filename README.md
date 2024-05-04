@@ -17,4 +17,4 @@ iGPU (HD 530)
 
 Última Versão | Latest Version    
 
-[![Download from https://github.com/DevHuney/EFI-OptiPlex3040/releases/latest](https://img.shields.io/github/downloads/DevHuney/EFI-OptiPlex3040/total.svg)](https://github.com/DevHuney/EFI-OptiPlex3040/releases/latest)     
+    
