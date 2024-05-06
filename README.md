@@ -3,7 +3,9 @@ Especificações | Specs
     
 i5-6500    
 8GB RAM DDR3L    
-iGPU (HD 530)
+iGPU (HD 530)     
+Intel Wireless BT + Wi-Fi     
+Compatible with macOS Ventura or newer
 
 ---
 
