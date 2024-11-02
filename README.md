@@ -1,4 +1,4 @@
-## EFI OptiPlex 3040 SFF (Desontinuado)
+## EFI OptiPlex 3040 SFF (Descontinuado)
 Especificações | Specs    
     
 i5-6500    
